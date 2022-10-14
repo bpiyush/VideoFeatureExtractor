@@ -44,6 +44,7 @@ python extract.py --csv=./csvs/activitynet.csv --type=s3dg --batch_size=64 --num
 ### YouCook2
 
 ```sh
+# see youcook2_generate_csv.py to generate CSV and then run rest of the commands
 ```
 
 ### SSv2
